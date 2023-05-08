@@ -123,3 +123,13 @@ If you already have models and want to test them, type the following command:
     python main.py --data './final_data_original' --batch_size 128 --learning_rate 0.0001 --alpha 2 --only_test true
 ``` 
 
+### Citation
+Please cite this paper when you use our code.
+```
+@article{jang2022accurate,
+  title={Accurate Open-set Recognition for Memory Workload},
+  author={Jang, Jun-Gi and Shim, Sooyeon and Egay, Vladimir and Lee, Jeeyong and Park, Jongmin and Chae, Suhyun and Kang, U},
+  journal={arXiv preprint arXiv:2212.08817},
+  year={2022}
+}
+```  
