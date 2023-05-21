@@ -1,5 +1,5 @@
 # Accurate Open-set Recognition for Memory Workload
-These are codes and datasets for "Accurate Open-set Recognition for Memory Workload", submitted to PAKDD, 2022.
+These are codes and datasets for "Accurate Open-set Recognition for Memory Workload", published in TKDD journal, 2023.
 
 ## Dataset
 We used 2 real-world workload sequence datasets in the experiment.
