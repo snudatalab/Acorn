@@ -126,10 +126,13 @@ If you already have models and want to test them, type the following command:
 ### Citation
 Please cite this paper when you use our code.
 ```
-@article{jang2022accurate,
+@article{jang2023accurate,
   title={Accurate Open-set Recognition for Memory Workload},
   author={Jang, Jun-Gi and Shim, Sooyeon and Egay, Vladimir and Lee, Jeeyong and Park, Jongmin and Chae, Suhyun and Kang, U},
-  journal={arXiv preprint arXiv:2212.08817},
-  year={2022}
+  journal={ACM Transactions on Knowledge Discovery from Data},
+  volume={17},
+  number={9},
+  pages={1--14},
+  year={2023},
 }
 ```  
